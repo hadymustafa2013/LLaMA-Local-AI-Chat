@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LLaMA-Local-AI-Chat": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
